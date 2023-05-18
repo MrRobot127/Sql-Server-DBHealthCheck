@@ -3,6 +3,7 @@
 The proc_DB_Health_reference procedure is a comprehensive SQL Server stored procedure that provides useful information related to the health and performance of a database. It includes multiple sections that cover different aspects of the database's health, such as CPU utilization, execution statistics, memory consumption, statistics update status, partition table status, table space usage, index fragmentation, and long-running queries.
 
 **Sections Included**
+
 **Run Time CPU Utilisation:** This section calculates the CPU utilization of each database and presents it as a percentage.
 **Execution Statistics:** It provides information about the average CPU usage and average logical reads of executed queries, along with the number of execution plans and total executions.
 **Database Memory Consumption:** This section displays the databases and their corresponding memory consumption in the buffer pool.
