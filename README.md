@@ -22,6 +22,7 @@ The proc_DB_Health_reference procedure is a comprehensive SQL Server stored proc
 
 
 **Usage**
+
 The proc_DB_Health_reference procedure can be executed in SQL Server Management Studio or any SQL Server client tool. Simply run the procedure, and it will provide the relevant health information for the database.
 
 Note: Make sure you have the necessary permissions to execute the procedure and access the system views and dynamic management views used within it.
@@ -31,4 +32,5 @@ Feel free to customize or modify the procedure according to your specific needs.
 Please note that the provided code is a reference and should be thoroughly tested and adapted to your environment before using it in a production setting.
 
 **License**
+
 This code is provided under the MIT License. You are free to use, modify, and distribute it as per the terms of the license.
